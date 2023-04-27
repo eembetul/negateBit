@@ -1,0 +1,2 @@
+# negateBit
+Negate Bit samples
